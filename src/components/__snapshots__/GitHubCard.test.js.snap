@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GitHubCard snapshot 1`] = `
+<div
+  className="card"
+>
+  <img
+    alt="me"
+    className="card-img-top"
+    src="public/photos/me.HEIC"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      ellafreudenberger
+    </div>
+    <p
+      className="card-text"
+    >
+      A Software Engineer Student at NYU
+    </p>
+    <div
+      className="card-footer"
+    >
+      Graduating December 2023
+    </div>
+  </div>
+</div>
+`;
